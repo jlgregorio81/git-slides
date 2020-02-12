@@ -1,13 +1,16 @@
 /* arquivos CSS*/
+
+
 /*css reset*/
-*{
-	margin: 0;
-	padding: 0;
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.titulo{
-	font-family: "Arial";
-	color:green;
-	background-color: aqua;
-	border: solid grey 5px;
+.titulo {
+    font-family: "Times New Roman";
+    color: red;
+    background-color: cian;
+    border: solid grey thin;
 }
