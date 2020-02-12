@@ -6,7 +6,8 @@
 }
 
 .titulo{
-	font-family: "Arial Black";
-	color:navy;
+	font-family: "Times New Roman";
+	color:blue;
 	background-color: beige;
+	border: solid grey medium;
 }
